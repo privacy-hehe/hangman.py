@@ -11,7 +11,11 @@ It has screen clearing to maintain secrecy, input validation and features ASCII 
 # ---> Clone or Download the script to your local machine and run the script on your terminal or use any web python compiler.
 # ---> Player 1 will enter a word which is to be guessed by the Player 2. Player 2 gets 6 chances to guess the word.
 
-
+**  +---+  **
+**  O   |  **
+** /|\  |  **
+** / \  |  **
+**     === **
 
 
 
